@@ -10,7 +10,7 @@ function Header() {
             <Navbar />
             <div className="name">
                 <h1>
-                    <span>Ready to Explore 3D Artifacts in Street View?</span>{" "}
+                    <span color="#6b90f5">Ready to Explore 3D Artifacts in Street View?</span>{" "}
                     Let's Begin Our Journey
                 </h1>
                 <Link to="/map" className="cv-btn">

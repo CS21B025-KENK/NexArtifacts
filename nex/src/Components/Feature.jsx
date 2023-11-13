@@ -12,7 +12,7 @@ function Feature() {
             <h1
                 style={{
                     fontSize: "2.5rem",
-                    color: "#000266",
+                    color: "#f3a20c",
                     textAlign: "center",
                 }}
             >
@@ -27,7 +27,7 @@ function Feature() {
                             style={{
                                 fontSize: "1.3rem",
                                 fontWeight: "bold",
-                                color: "#6B90F5",
+                                color: "#f3a20c",
                             }}
                         >
                             3D Vector World Map
@@ -43,7 +43,7 @@ function Feature() {
                             style={{
                                 fontSize: "1.3rem",
                                 fontWeight: "bold",
-                                color: "#6B90F5",
+                                color: "#f3a20c",
                             }}
                         >
                             Street View Integration
@@ -59,7 +59,7 @@ function Feature() {
                             style={{
                                 fontSize: "1.3rem",
                                 fontWeight: "bold",
-                                color: "#6B90F5",
+                                color: "#f3a20c",
                             }}
                         >
                             Artifact Showcase
@@ -74,7 +74,7 @@ function Feature() {
                             style={{
                                 fontSize: "1.3rem",
                                 fontWeight: "bold",
-                                color: "#6B90F5",
+                                color: "#f3a20c",
                             }}
                         >
                             360-Degree Rotation

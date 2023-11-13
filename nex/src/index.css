@@ -701,15 +701,22 @@ body.dark-mode #contact {
     color: #ffffff;
 }
 
-body.dark-mode .a-b-img img,
+body.dark-mode .a-b-img img {
+    border: 2px solid #272727;
+}
 body.dark-mode .s-b-img img {
     border: 2px solid #ffffff;
 }
 
 body.dark-mode .name,
+body.dark-mode .name span{
+    color: #f3a20c;
+}
 body.dark-mode .header-btns,
 body.dark-mode .cv-btn,
-body.dark-mode .about-text h2,
+body.dark-mode .about-text h2{
+    color: #f3a20c;
+}
 body.dark-mode .about-text p,
 body.dark-mode .a-box,
 body.dark-mode .s-b-text p {
@@ -782,7 +789,8 @@ body.dark-mode nav.active {
 }
 
 body.dark-mode nav ul li a {
-    color: #fff; /* Set dark mode text color for navigation links */
+    color: #f3a20c; /* Set dark mode text color for navigation links */
+    background-color: #333; /* Set dark mode text color for navigation links */
 }
 
 body.dark-mode nav ul li a:hover {
